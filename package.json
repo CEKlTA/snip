@@ -1,0 +1,12 @@
+{
+  "name": "snip",
+  "version": "1.0.0",
+  "main": "snip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

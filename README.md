@@ -1,5 +1,5 @@
 # snip
-## Parse HTML Template Literals into DOM Elements
+### Parse HTML Template Literals into DOM Elements
 
 `snip` is a lightweight JavaScript utility that allows you to parse HTML-like template literals into DOM elements effortlessly. This package is ideal for developers looking to dynamically create and manipulate DOM elements without relying on complex or heavy templating libraries.
 
